@@ -1,6 +1,6 @@
 # Indaiacult
 Projeto MERN de estudo. WebApp de uma biblioteca de informações formatadas em "posts".
-Dependencias: Nodemon, MaterialUi, Redux Toolkit, React Router, Redux Persist, React Dropzone, Mongoose, Multer, Google Fonts, Formik, Yup, GridFS-Storage.
+Dependencias: Nodemon, MaterialUi, Redux Toolkit, React Router, Redux Persist, React Dropzone, Mongoose, Multer, Google Fonts, Formik, Yup, GridFS-Storage, Bcrypt, JsonWebToken
 **instalação passo a paso - server**
 npm i -g nodemon
 npm i -g npx
