@@ -4,7 +4,7 @@ Dependencias: Nodemon, MaterialUi, Redux Toolkit, React Router, Redux Persist, R
 **instalação passo a paso - server**
 npm i -g nodemon
 npm i -g npx
-npm i express body-parser dotenv gridfs-stream multer  multer-gridfs-storage helmet morgan mongoose
+npm i express body-parser dotenv gridfs-stream multer  multer-gridfs-storage helmet morgan mongoose jsonwebtoken bcrypt cors
 npm init -y
 
 **instalação passo a passo - cliente**
