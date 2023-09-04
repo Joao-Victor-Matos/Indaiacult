@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Edit from "../img/edit.png";
 import Delete from "../img/remove.png";
+import Menu from "../components/Menu";
 
 const Single = () => {
   return (
@@ -27,8 +28,16 @@ const Single = () => {
             <img src={Delete} alt="" />
           </div>
         </div>
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia
+          commodi esse quo iste ab corporis laudantium a! Quisquam temporibus
+          iure quia quas, voluptatibus excepturi quis amet, culpa placeat minima
+          consequuntur quos eligendi aliquid voluptates beatae at earum odit est
+          dolore!
+        </p>
       </div>
-      <div className="menu">m</div>
+      <Menu />
     </div>
   );
 };
